@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+    background:#F0F2F5;
+    color:black;
+   
+}
+.container{
+    position: absolute;
+    top:30%;
+    left:15%;
+    font-size:25px;
+
+}
+
+.container h1{
+    color:#1877F2;
+    font-family:"segoe ui";
+}
+
+.{
+    margin:0;
+    padding:0;
+
+}
+.container p{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+    position: absolute;
+    top:30%;
+    left:57%;
+    background-color: white;
+    height:312px;
+    width:320px;
+    border-radius:6px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+}
+
+.box input{
+    font-size:15px;
+    width:75%;
+    margin:10px;
+    margin-top: 18px;
+    margin-left:21px;
+    padding:13px 18px;
+}
+
+.link input {
+    background-color:#1877F2;
+    color:white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    text-align:center;
+    width:87%;
+    margin-top:10px;
+    margin-left:21px;
+    border-radius:7px;
+    border-color:#1877F2;
+    padding:11px
+}
+
+.link2 {
+    text-align:center;
+    margin-top: 10px;
+
+}
+
+.link3 input {
+    background-color:#1877F2;
+    width:87%;
+    color:white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:19px;
+    text-align:center;
+    margin-top:1px;
+    margin-left:21px;
+    border-radius:6px;
+    border-color:#1877F2;
+    padding:9px
+}
